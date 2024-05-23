@@ -1,0 +1,16 @@
+{
+  "name": "test-nominatim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@owsas/nominatim-js": "^1.0.1",
+    "cross-fetch": "^4.0.0"
+  }
+}
